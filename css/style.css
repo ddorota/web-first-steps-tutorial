@@ -1,0 +1,17 @@
+body {
+    color: rgb(54, 54, 54);
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#navi {
+    margin-bottom: 30px;
+}
+#navi button {
+    margin-right: 2%;
+    font-size: 18px;
+}
+.tabs div {
+    display: none;
+}
