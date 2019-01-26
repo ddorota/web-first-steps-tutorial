@@ -2,6 +2,9 @@ function changeTab(tabNumber) {
     hideTab('tab1');
     hideTab('tab2');
     hideTab('tab3');
+    hideTab('tab4');
+    hideTab('tab5');
+    hideTab('tab6');
 
     var tabClassName = 'tab' + tabNumber;
 
